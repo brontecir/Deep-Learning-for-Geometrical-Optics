@@ -3,3 +3,5 @@ Faster and more accurate calculation of the optical forces in the geometrical op
 
 With this tutorial we aim to provide with the tools to use the previously trained neural networks to compute optical forces in the geometrical optics regime.
 Besides, we illustrate how you can train a neural network for optical force calculation.
+
+Download the full folder, go to Tutorial.ipynb and follow the instructions.
